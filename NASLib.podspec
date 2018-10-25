@@ -8,5 +8,5 @@ Pod::Spec.new do |s|
   s.author             = { "蔡宇" => "461189296@qq.com" }
   s.source       = { :git => "https://github.com/hydraCy/NASWalletCore.git", :tag => "#{s.version}" }
   s.platform     = :ios, '8.0'
-  s.vendored_frameworks = 'Walletcore.framework'
+  s.vendored_frameworks = 'NASLib/Walletcore.framework'
 end
