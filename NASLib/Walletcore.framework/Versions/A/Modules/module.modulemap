@@ -1,0 +1,8 @@
+framework module "Walletcore" {
+	header "ref.h"
+    header "Walletcore.objc.h"
+    header "universe.objc.h"
+    header "Walletcore.h"
+
+    export *
+}
