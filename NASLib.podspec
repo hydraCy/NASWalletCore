@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "NASLib"
-  s.version      = "1.1.0"
+  s.version      = "1.0.0"
   s.homepage     = "https://github.com/hydraCy/NASWalletCore"
   s.summary      = 'NAS Walletcore.'
   s.license      = {:type => 'MIT' }
